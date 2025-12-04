@@ -5,6 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { ThemeProvider } from '@aws-amplify/ui-react';
 import './styles.css';
+import '@aws-amplify/ui-react/styles.css';
 
 const theme = {
   name: 'my-theme',

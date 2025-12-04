@@ -1,8 +1,8 @@
 import React from "react"; //import React Component
-import Filters from "./components/Filters.jsx";
-import Header from "./components/SpotifyAuthButton.jsx";
-import { PageFooter } from "./components/Sections.jsx";
-import GettingStarted from "./components/GettingStarted.jsx";
+import Filters from "./components/Filters.js";
+import Header from "./components/SpotifyAuthButton.js";
+import { PageFooter } from "./components/Sections.js";
+import GettingStarted from "./components/GettingStarted.js";
 
 import "./styles.css";
 import "bootstrap/dist/css/bootstrap.min.css";
